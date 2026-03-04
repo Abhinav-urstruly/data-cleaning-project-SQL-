@@ -1,4 +1,4 @@
-# data-cleaning-project-SQL-
+Nashville Housing Data Cleaning and Transformation Project
 Data cleaning project using SQL to preprocess raw datasets — handling missing values, duplicates, and inconsistencies for better analysis.
 ## How to Run
 1. Import the raw dataset into your SQL database.
